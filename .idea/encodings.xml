@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/collide/js/game.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/collide/js/player1.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/findpath/js/game.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/findpath/js/map.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/findpath/js/player.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/particle/js/game.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/particle/js/particle.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/trace/js/bullet.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/trace/js/game.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/trace/js/player.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/trace/xengine/xutil.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/xengine/xsprite.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/xengine/xsys.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/xengine/xutil.js" charset="GBK" />
+  </component>
+</project>
